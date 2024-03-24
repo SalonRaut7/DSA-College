@@ -1,0 +1,1 @@
+at index " << val << " which is: " << arr[val] 
